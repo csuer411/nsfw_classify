@@ -4,7 +4,7 @@
 
 基于pytorch预训练resnet 18微调，在训练集与测试集分别达到95%，93%的正确率。因为本身数据集噪音较大，并没有继续训练拟合达到较高准确率。
 
-若不想训练可直接运行web.ipynb（请确保环境已配置好），或者直接使用 [在线demo](https://huggingface.co/spaces/csuer/nsfw_classify)
+若不想训练可直接运行web.ipynb（请确保环境已配置好），或者直接使用 [在线demo](https://huggingface.co/spaces/csuer/nsfw-classification)
 
 标签分类依据如下：
 
